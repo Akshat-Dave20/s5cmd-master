@@ -1,3 +1,7 @@
+This repository is based on the original s5cmd project:
+https://github.com/peak/s5cmd
+Licensed under the MIT License.
+
 [![Go Report](https://goreportcard.com/badge/github.com/peak/s5cmd/v2)](https://goreportcard.com/report/github.com/peak/s5cmd/v2) ![Github Actions Status](https://github.com/peak/s5cmd/actions/workflows/ci.yml/badge.svg)
 
 ![](./doc/s5cmd_header.jpg)
